@@ -7,13 +7,9 @@ Research Excellence Framework Analysis
 ## [View Report](https://app.powerbi.com/view?r=eyJrIjoiNGEyY2ZjYTAtNmI0My00MjMwLThlMDAtOTIyNjBhZjAwYTVjIiwidCI6Ijg2ZDhlM2ViLTQ4YzYtNDdlZC05Nzk0LTdiZmZmNWE2ZTUyNCJ9)
 
 
-## Executive Summary:
-
-<p style="text-align:justify;">The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.</p>
-
 ## Introduction:
 
-<p style="text-align:justify;">The Research Excellence Framework (REF) is a pivotal mechanism guiding funding allocation, collaboration, and research enhancement across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI, focusing on key metrics related to research quality, income sources, and doctorates awarded.</p>
+<p style="text-align:justify;">The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.</p>
 
 ## Data Collection and Preparation:
 
@@ -25,15 +21,14 @@ Research Excellence Framework Analysis
 
 ## Key Metrics Analysis:
 
-Institutions Total: [Explanation of total number of institutions included in the dataset.]
-Units of Assessment Total: [Explanation of total number of units of assessment.]
-Total Income Sources: [Overview of sources contributing to total income.]
-Income Total: [Analysis of total income generated across institutions.]
-Total Doctorates Awarded: [Explanation of total number of doctorates awarded.]
-Income Analysis: [Identification of institutions contributing significantly to overall income and those with minimal contribution.]
-Doctorates Analysis: [Identification of trends in doctorates awarded and their distribution across institutions and units of assessment.]
-Result Analysis: [Distribution of star ratings across research profile categories.]
-Others: [Highlighting proportion of staff members in each academic discipline.]
+Institutions Total
+Units of Assessment Total
+Total Income Sources
+Income Total
+Total Doctorates Awarded
+Income Analysis
+Doctorates Analysis
+Result Analysis
 
 ## Insights:
 
@@ -43,13 +38,6 @@ Others: [Highlighting proportion of staff members in each academic discipline.]
 
 <p style="text-align:justify;">The analysis of the REF dataset in Power BI has revealed valuable insights that are crucial for strategic decision-making in higher education institutions. The interactive nature of the analysis facilitates deeper exploration and understanding of key metrics related to research quality, income sources, and doctorates awarded.</p>
 
-
-
-Based on the findings of this analysis, it is recommended that [insert recommendations for future research or analysis].
-
-References:
-
-[Include any references or sources used in the analysis or report preparation.]
 
 
 
