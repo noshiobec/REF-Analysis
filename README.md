@@ -1,6 +1,9 @@
 # REF-Analysis
 Research Excellence Framework Analysis
 
+![image](https://github.com/noshiobec/REF-Analysis/assets/96450822/dcd25d71-f2ef-48d6-ba83-994852c5357c)
+
+
 Report Title: Analysis of Research Excellence Framework (REF) Dataset
 
 ## Executive Summary:
