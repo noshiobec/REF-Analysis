@@ -9,19 +9,19 @@ Research Excellence Framework Analysis
 
 ## Executive Summary:
 
-The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.
+<p style="text-align: justify;">The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.</p>
 
 ## Introduction:
 
-The Research Excellence Framework (REF) is a pivotal mechanism guiding funding allocation, collaboration, and research enhancement across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI, focusing on key metrics related to research quality, income sources, and doctorates awarded.
+<p style="text-align: justify;">The Research Excellence Framework (REF) is a pivotal mechanism guiding funding allocation, collaboration, and research enhancement across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI, focusing on key metrics related to research quality, income sources, and doctorates awarded.</p>
 
-Data Collection and Preparation:
+## Data Collection and Preparation:
 
-The subset of the REF dataset was acquired and processed through meticulous data cleaning and transformation using Python code. Data modeling involved designing relationships between relevant tables and creating calculated columns and measures to ensure accuracy and consistency in analysis.
+<p style="text-align:justify;">The subset of the REF dataset was acquired and processed through meticulous data cleaning and transformation using Python code. Data modeling involved designing relationships between relevant tables and creating calculated columns and measures to ensure accuracy and consistency in analysis.</p>
 
 ## Visualization Design:
 
-Visualizations were carefully selected based on the nature of the data to provide an intuitive layout for a user-friendly experience. Features such as slicers for interactive filtering and a mobile view were incorporated to enhance accessibility across devices.
+<p style="text-align:justify;">Visualizations were carefully selected based on the nature of the data to provide an intuitive layout for a user-friendly experience. Features such as slicers for interactive filtering and a mobile view were incorporated to enhance accessibility across devices.</p>
 
 ## Key Metrics Analysis:
 
@@ -37,11 +37,11 @@ Others: [Highlighting proportion of staff members in each academic discipline.]
 
 ## Insights:
 
-Further insights from the dashboard are available [link to additional insights], providing stakeholders with the opportunity for deeper exploration and analysis.
+<p style="text-align:justify;">Further insights from the dashboard are available [link to additional insights], providing stakeholders with the opportunity for deeper exploration and analysis.</p>
 
 ## Conclusion and Recommendations:
 
-The analysis of the REF dataset in Power BI has revealed valuable insights that are crucial for strategic decision-making in higher education institutions. The interactive nature of the analysis facilitates deeper exploration and understanding of key metrics related to research quality, income sources, and doctorates awarded.
+<p style="text-align:justify;">The analysis of the REF dataset in Power BI has revealed valuable insights that are crucial for strategic decision-making in higher education institutions. The interactive nature of the analysis facilitates deeper exploration and understanding of key metrics related to research quality, income sources, and doctorates awarded.</p>
 
 
 
