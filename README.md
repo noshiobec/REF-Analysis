@@ -9,11 +9,11 @@ Research Excellence Framework Analysis
 
 ## Executive Summary:
 
-<p style="text-align: justify;">The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.</p>
+<p style="text-align:justify;">The Research Excellence Framework (REF) serves as a critical evaluation system for assessing research quality across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI. Key findings and insights derived from the analysis provide a foundation for strategic decision-making in higher education institutions. The interactive nature of the analysis ensures accessibility on both desktop and mobile devices, facilitating deeper exploration for stakeholders.</p>
 
 ## Introduction:
 
-<p style="text-align: justify;">The Research Excellence Framework (REF) is a pivotal mechanism guiding funding allocation, collaboration, and research enhancement across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI, focusing on key metrics related to research quality, income sources, and doctorates awarded.</p>
+<p style="text-align:justify;">The Research Excellence Framework (REF) is a pivotal mechanism guiding funding allocation, collaboration, and research enhancement across higher education institutions in the UK. This report presents an analysis conducted using a subset of the REF dataset in Power BI, focusing on key metrics related to research quality, income sources, and doctorates awarded.</p>
 
 ## Data Collection and Preparation:
 
